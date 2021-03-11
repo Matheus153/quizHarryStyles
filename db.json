@@ -1,0 +1,107 @@
+{
+    "bg": "background.jpg",
+    "title": "Você conhece mesmo Harry Styles?",
+    "description": "Um quiz rápido.",
+    "questions": [
+      {
+        "image": "Harry1.jpg",
+        "title": "Em que colocação ficou na sua estreia da banda no X-factor?",
+        "description": "Pergunta fácil em!",
+        "answer": 2,
+        "correct": "correta: 3° lugar",
+        "alternatives": [
+          "1° lugar ",
+          "2° lugar",
+          "3° lugar",
+          "4° lugar "
+        ]
+      },
+      {
+        "image": "padaria.jpg",
+        "title": "Antes de embarcar no ramo da música onde ele trabalhava?",
+        "description": "E agora? Você sabe?",
+        "answer": 3,
+        "correct": "correta: Na Padaria",
+        "alternatives": [
+          "No Açougue",
+          "Na Biblioteca",
+          "Na Loja do Pai",
+          "Na Padaria"
+        ]
+      },
+
+      {
+        "image": "Harry2.gif",
+        "title": "Qual dessas afirmações está errada?",
+        "description": "Inusitada!",
+        "answer": 3,
+        "correct": "correta: Não namoraria uma fã",
+        "alternatives": [
+          "Ele possue 4 mamilos",
+          "Já participou de filmes Hollywood",
+          "Escolheu o nome One Direction",
+          "Não namoraria uma fã"
+        ]
+      },
+
+      {
+        "image": "Harry3.gif",
+        "title": "O que ele leva ao camarim antes de cada show?",
+        "description": "Hum",
+        "answer": 0,
+        "correct": "correta: Uma vela",
+        "alternatives": [
+          "Uma vela",
+          "Sua moeda da sorte",
+          "A última carta do pai",
+          "Os presentes que recebeu"
+        ]
+      },
+
+      {
+        "image": "Harry4.gif",
+        "title": "Qual seria a profissão dele se não fosse cantor?",
+        "description": "justo",
+        "answer": 2,
+        "correct": "correta: Advogado, segundo ele",
+        "alternatives": [
+          "Cirurgião",
+          "Arquiteto",
+          "Advogado",
+          "Escultor"
+        ]
+      },
+
+      {
+        "image": "Harry5.gif",
+        "title": "Qual a música com mais visualizações no Youtube?",
+        "description": "tururutu",
+        "answer": 0,
+        "correct": "correta: Sign of the times",
+        "alternatives": [
+          "Sign of the Times",
+          "Watermelon Sugar",
+          "Adore You",
+          "Golden"
+        ]
+      }
+    ],
+
+    "resultImage": "joinha.gif",
+    "resultImage2st": "sad-BTS.gif",
+    
+    "theme": {
+      "colors": {
+        "primary": "#222222",
+        "secondary": "#912628",
+        "mainBg": "rgba(31, 29, 29, 0.93)",
+        "contrastText": "#fefef3",
+        "wrong": "#cF2412",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px",
+      "quizlogo": "https://dewey.tailorbrands.com/production/brand_version_mockup_image/298/4605243298_545beea1-9f67-44b1-bd55-710f841a163d.png?cb=1612835865",
+      "quizlogo2": "https://dewey.tailorbrands.com/production/brand_version_mockup_image/792/4611444792_e5c61721-d613-4d5f-9ac5-18c9003dbb65.png?cb=1612905441"
+    }
+  }
+  
