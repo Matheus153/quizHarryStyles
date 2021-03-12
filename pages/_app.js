@@ -42,7 +42,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
         <Head>
-          <title>Quiz BTS</title>
+          <title>Quiz Harry Styles</title>
           <link rel="icon" href="favicon.ico" />
         </Head>
       <ThemeProvider theme={theme}>
