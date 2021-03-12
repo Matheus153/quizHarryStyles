@@ -84,11 +84,96 @@
           "Adore You",
           "Golden"
         ]
+      },
+
+      {
+        "image": "Harry6.gif",
+        "title": "Qual dessas afirmações é verdadeira?",
+        "description": "watermelon sugar ah!",
+        "answer": 3,
+        "correct": "correta: Já usou drogas",
+        "alternatives": [
+          "Nasceu em 12 de Fevereiro de 1994",
+          "Ele é capricorniano",
+          "Sabe tocar bateria",
+          "Já usou drogas"
+        ]
+      },
+
+      {
+        "image": "Harry7.jpg",
+        "title": "Onde ele conseguiu a tatoo Late Late?",
+        "description": "Show!",
+        "answer": 2,
+        "correct": "correta: Em um talk show",
+        "alternatives": [
+          "Comemoração pelo novo Álbum",
+          "Numa festa do Nial",
+          "Em um talk show",
+          "Na casa da namorada"
+        ]
+      },
+
+      {
+        "image": "Harry8.gif",
+        "title": "Sobre o que fala as músicas do Álbum mais recente Fine Line?",
+        "description": "Hum",
+        "answer": 0,
+        "correct": "correta: solidão e sexo",
+        "alternatives": [
+          "solidão e sexo",
+          "amizades desfeitas",
+          "niilismo",
+          "traição"
+        ]
+      },
+
+      {
+        "image": "Harry9.gif",
+        "title": "Qual a banda que ele tem por inspiração?",
+        "description": "Hum",
+        "answer": 3,
+        "correct": "correta: Fletwood Mac",
+        "alternatives": [
+          "The Beatles",
+          "Queen",
+          "Ramones",
+          "Fletwood Mac"
+        ]
+      },
+
+      {
+        "image": "Harry10.jpg",
+        "title": "Qual dessas músicas possue uma pegada mais rock?",
+        "description": "Fácil",
+        "answer": 1,
+        "correct": "correta: She",
+        "alternatives": [
+          "Golden",
+          "She",
+          "Watermeoln Sugar",
+          "Cherry"
+        ]
+      },
+
+      {
+        "image": "latest.gif",
+        "title": "O que ele levou como presente para Stevie Nicks em um show?",
+        "description": "Você sabe?",
+        "answer": 0,
+        "correct": "correta: Um bolo de cenoura",
+        "alternatives": [
+          "Um bolo de cenoura",
+          "Uma guitarra",
+          "Uma caixa com doces",
+          "Uma parceria para seu novo Álbum"
+        ]
       }
     ],
 
-    "resultImage": "joinha.gif",
-    "resultImage2st": "sad-BTS.gif",
+    "resultImage": "happy.gif",
+    "resultImage2st": "aham.gif",
+    "resultImage3st": "result.gif",
     
     "theme": {
       "colors": {
