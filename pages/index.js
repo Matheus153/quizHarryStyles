@@ -41,7 +41,7 @@ export default function Home() {
       
         <Head>
           <title>Você conhece Harry Styles?</title>
-          <link rel="icon" href="https://img.icons8.com/nolan/2x/bts-logo.png" />
+          <link rel="icon" href="favicon.ico" />
         </Head>
         <StyledContainer>
           <Widget

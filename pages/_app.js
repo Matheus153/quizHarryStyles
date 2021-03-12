@@ -43,7 +43,7 @@ export default function App({ Component, pageProps }) {
     <>
         <Head>
           <title>Quiz BTS</title>
-          <link rel="icon" href="https://img.icons8.com/nolan/2x/bts-logo.png" />
+          <link rel="icon" href="favicon.ico" />
         </Head>
       <ThemeProvider theme={theme}>
         <GlobalStyle />
