@@ -40,7 +40,7 @@ export default function Home() {
     <QuizBackground backgroundImage={db.bg}>
       
         <Head>
-          <title>Você conhece mesmo Harry Styles?</title>
+          <title>Você conhece Harry Styles?</title>
           <link rel="icon" href="favicon.ico" />
         </Head>
         <StyledContainer>
