@@ -18,8 +18,8 @@ export default function Principal() {
             as={motion.section}
             transition={{ delay: 0.1, duration: 0.5, ease: "easeOut" }}
             variants={{
-            show: {opacity: 1, y:'0'},
-            hidden: {opacity: 0, y:'55%'}
+            show: {opacity: 1, x:'0'},
+            hidden: {opacity: 0, x:'-70%'}
             }}
             initial="hidden"
             animate="show"
